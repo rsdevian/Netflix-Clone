@@ -35,4 +35,3 @@ function Row({title,fetchUrl}) {
     )}
 
 export default Row;
-
