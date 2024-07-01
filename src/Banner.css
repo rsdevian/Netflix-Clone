@@ -1,11 +1,11 @@
 .banner{
     color: white;
     object-fit: contain;
-    height: 448px;
+    height: 490px;
 }
 
 .banner__contents{
-    margin: 0px 30px;
+    margin: 50px;
     padding-top: 140px;
     height: 190px;
 }
@@ -14,6 +14,7 @@
     font-size: 3rem;
     font-weight: 800;
     padding-bottom: 0.3rem;
+    background: rbga(0,0,0,0.7);
 }
 
 .banner__description{
